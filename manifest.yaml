@@ -4,7 +4,7 @@ package:
   license: Apache-2.0
   actions:
     adobe-analytics-skill:
-      version: 1.1
+      version: 1.0
       location: exercises/exercise-2/alexa-skill.js
       runtime: nodejs@6
       inputs:
